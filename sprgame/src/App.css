@@ -1,0 +1,45 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  align-items: center;
+}
+
+.player-options img {
+  width: 120px;
+  margin: 10px;
+  transition: transform 0.2s;
+}
+
+.player-options img:hover {
+  transform: scale(1.1);
+  width: 130px;
+  border-radius: 12px;
+}
+
+.computer-choice img {
+  width: 150px;
+}
+
+.result h2 {
+  margin-top: 20px;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.scoreboard {
+  display: block;
+  color: white;
+}
+
+.selected {
+  border: 5px solid rgb(41, 237, 201);
+  transform: scale(1.12);
+}
+
+img {
+  border-radius: 10px;
+}
+
+
