@@ -5,7 +5,7 @@
 
 1. Download or clone this project to your computer.
      ```bash
-    https://github.com/akhanal001/test.git
+    https://github.com/akhanal001/Assignment-8-React-SPA.git
     ```
 3. Open the project folder in a code editor.
 4. Make sure Node.js is installed on your system.
